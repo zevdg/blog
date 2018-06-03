@@ -1,5 +1,23 @@
-baseURL = "http://example.org/"
+baseURL = "https://zevdg.com"
 languageCode = "en-us"
-title = "Zev Goldstein"
+title = "zevdg"
 
 theme = "beautifulhugo"
+
+[Params]
+  homeTitle = "Test" # Set a different text for the header on the home page
+  subtitle = "Musings on Programming, User Experience, and Life"
+  favicon = "img/favicon.ico"
+
+[Author]
+  name = "Zev Goldstein"
+  email = "Zev.Goldstein@gmail.com"
+  linkedin = "zevdg"
+  reddit = "zevdg"
+  github = "zevdg"
+
+[menu]
+  [[menu.main]]
+    name = "About Me"
+    url = "page/about-me/"
+    weight = 3
