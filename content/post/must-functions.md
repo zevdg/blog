@@ -1,7 +1,7 @@
 ---
 title: Must functions
 date: 2018-01-01
-publishDate: 9999-01-01 # hide this post for now
+draft: true # hide this post for now
 ---
 
 # Must functions
