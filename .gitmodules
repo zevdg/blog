@@ -5,3 +5,4 @@
 	path = public
 	url = git@github.com:zevdg/zevdg.github.io.git
 	branch = master
+	ignore = dirty
