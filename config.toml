@@ -5,8 +5,8 @@ title = "zevdg"
 theme = "beautifulhugo"
 
 [Params]
-  homeTitle = "Test" # Set a different text for the header on the home page
-  subtitle = "Musings on Programming, User Experience, and Life"
+  homeTitle = "Blog"
+  subtitle = "Musings on Software Development, User Experience, and Life"
   favicon = "img/favicon.ico"
 
 [Author]
