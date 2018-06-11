@@ -16,7 +16,7 @@ I'm currently the CEO and cofounder of [Appleseed.vote](https://appleseed.vote).
 
 ### Bloomberg LP - Systems Infrastructure Champ
 
-I started at Bloomberg as a full stack developer. Over time, I found myself wearing the hats of scrum master, project leader and champ. For the non-Bloombergers out there, champs are the developer experience conduit between the application developers and the infrastructure teams. In my department, there were 2 Champs and about 400 devs. We were the ones developers came to when they wanted guidance or ran into a problem that they couldn't find a good solution for. If those solutions already existed, it was our job to know about them and educate. If not, we made sure that the use-case made it back to the right infrastructure team and was prioritized correctly.
+I started at Bloomberg as a full stack developer. Over time, I found myself wearing the hats of scrum master, project leader and champ. For the non-Bloombergers out there, champs are the developer experience conduit between the application developers and the infrastructure teams. In my department, there were 2 champs and about 400 devs. We were the ones developers came to when they wanted guidance or ran into a problem that they couldn't find a good solution for. If those solutions already existed, it was our job to know about them and educate. If not, we made sure that the use-case made it back to the right infrastructure team and was prioritized correctly.
 
 My personal motto in this role was
 ![That's what I do. I drink, and I know things.](/img/drink-and-know-things.jpg)
