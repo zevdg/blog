@@ -98,9 +98,11 @@ Codes of ethics are almost never an issue until someone tries to change them, an
 
 ### In summary
 
-1.  Encourage projects to pick a code of ethics (CoC or anti-CoC) as early as possible.
-2.  Don't make any assumptions about projects with no code of ethics.
-3.  We must converge on a standard process for changing a code of ethics.
+We must
+
+1.  encourage projects to pick a code of ethics (CoC or anti-CoC) as early as possible.
+2.  not make assumptions about projects with no code of ethics.
+3.  converge on a standard process for changing a code of ethics.
 
 If we did these 3 things – like we already do with software licences – then we could put this drama to rest and get back to writing awesome software.
 
