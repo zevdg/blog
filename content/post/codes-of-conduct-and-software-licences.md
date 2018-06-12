@@ -66,7 +66,7 @@ This all may seem like lunacy, but in practice, it works out pretty well now tha
 
 Now, consider the alternative. Imagine a world where software licences could be changed on the whim of a project's BDFL (benevelent dictator for life), or maybe by a majority vote. If that were the case, then you could pour your blood, sweat, and tears into an open-source project for years, and then wake up one day to find that the licence had been changed to prevent you from using new versions of the very software that you helped create.
 
-<div style="display:flex;justify-content:center"><video width="400" height="400" autoplay loop><source src="/img/racoon-cotton-candy.mp4" type="video/mp4"></video></div>
+<div style="display:flex;justify-content:center"><video width="400" height="400" playsinline autoplay muted loop><source src="/img/racoon-cotton-candy.mp4" type="video/mp4"></video></div>
 
 Most people agree that would be be wrong. Look how sad that racoon got when his project slipped from his adorable little fingers! I digress, but that's basically why software relicensing requires unanimous support. However as a result, it is prohibitively difficult to re-licence any sufficiently large open source project unless every contributor signed away their rights in advance. That's the price we pay for peace in the software licensing wars.
 
