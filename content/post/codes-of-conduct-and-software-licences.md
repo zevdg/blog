@@ -64,7 +64,7 @@ You see, the process for changing the licence of a piece of software is also leg
 
 This all may seem like lunacy, but in practice, it works out pretty well now that we all know and agree on the rules. A junior developer occasionally creates an open-source project without a licence, but this is almost always noticed and fixed before it becomes a problem.
 
-Now, consider the alternative. Imagine a world where software licences could be changed on the whim of a project's [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life), or maybe by a majority vote. If that were the case, then you could pour your blood, sweat, and tears into an open-source project for years, and then wake up one day to find that the licence had been changed to prevent you from using new versions of the very software that you helped create.
+Now, consider the alternative. Imagine a world where software licences could be changed on the whim of a project's BDFL (benevelent dictator for life), or maybe by a majority vote. If that were the case, then you could pour your blood, sweat, and tears into an open-source project for years, and then wake up one day to find that the licence had been changed to prevent you from using new versions of the very software that you helped create.
 
 <div style="display:flex;justify-content:center"><video width="400" height="400" autoplay loop><source src="/img/racoon-cotton-candy.mp4" type="video/mp4"></video></div>
 
@@ -90,7 +90,7 @@ We come back to this question: why do the various software licence camps get alo
 2.  We don't assume anything about a project with no licence.
 3.  Everyone understands and agrees on the process to change a software licence.
 
-So how does this apply to codes of conducts? Step 1 is the easiest part. **We must encourage projects to pick a code of ethics (be it CoC or anti-CoC) as early as possible.** new users and contributors know what kind of community they are signing up for. I'd go a bit further to encourage all codes of ethics to be specific about the scope they apply to since that is a such a contentious topic.
+So how does this apply to codes of conducts? Step 1 is the easiest part. **We must encourage projects to pick a code of ethics (be it CoC or anti-CoC) as early as possible.** That way new users and contributors know what kind of community they are signing up for. I'd go a bit further to encourage all codes of ethics to be specific about the scope they apply to since that is a such a contentious topic.
 
 Step 2 is a bit more subtle. **We must stop making assumptions about projects that haven't yet documented their code of ethics.** A missing code of ethics doesn't imply an anti-CoC any more than a missing software licence implies a permissive licence. The only thing that you can safely conclude in this case is that you do not know how this community moderates itself. Similarly, a code of ethics that doesn't define its scope doesn't imply a limited scope. In C, an uninitialized integer doesn't necessarily default to zero. In Javascript, undefined !== false. Programmers understand the difference between defined and undefined behavior, and we all know that English is way more ambiguous than either C or Javascript, so why do many of us insist on filling that ambiguity with foolish assumptions? As programmers, we should know better.
 
