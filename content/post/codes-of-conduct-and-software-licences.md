@@ -3,7 +3,11 @@ title: Codes of Conduct need to learn from OSS Licenses
 date: 2018-06-12
 ---
 
-Full disclosure: I'm a fan of Codes of Conduct (CoCs), but if anything, this post favors the other side of the debate. Community consensus is a personal and professional interest of mine[^1], so I found myself compelled to really understand what was driving the conflict around CoCs. Every time a project considers adopting or changing their code of conduct, the project's community has a discussion about about the change. The thing I've noticed about these discussions is that they are never about the project itself. They inevitably devolve into heated debates about whether CoCs are universally good or bad.
+_Full disclosure: I'm a fan of Codes of Conduct (CoCs), but if anything, this post favors the other side of the debate._
+
+Codes of conduct are currently one of the most contentious topics among programmers. As community consensus is a personal and professional interest of mine[^1], I found myself compelled to really understand what was driving this conflict. Every time a project considers adopting or changing their CoC, there is a discussion about about the change, that inevitably devolves into a heated debate about whether codes of conduct are universally good or evil.
+
+<!--more-->
 
 If you just want to participate in a never ending flame war, we already have spaces vs tabs, vim vs emacs, and [Newcomb's paradox](https://en.wikipedia.org/wiki/Newcomb%27s_paradox). Surely, in all 3 of these areas, we're making good progress towards finding the _right_ answer.
 
