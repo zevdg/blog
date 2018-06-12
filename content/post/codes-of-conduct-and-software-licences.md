@@ -102,7 +102,7 @@ Codes of ethics are almost never an issue until someone tries to change them, an
 2.  Don't make any assumptions about projects with no code of ethics.
 3.  We must converge on a standard process for changing a code of ethics.
 
-If we did these 3 things – like we already do with software licences – then we could finally end all this drama get back to writing awesome software.
+If we did these 3 things – like we already do with software licences – then we could put this drama to rest and get back to writing awesome software.
 
 <!-- prettier-ignore -->
 [^1]: "Professional interest" in community consensus is an extreme understatement. I [founded my startup](https://medium.com/appleseedcorp/a-fresh-start-747b2ce00240) appleseed.vote specifically to tackle the problem.
