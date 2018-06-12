@@ -1,6 +1,6 @@
 ---
 title: Codes of Conduct need to learn from OSS Licenses
-date: 2018-06-05
+date: 2018-06-12
 ---
 
 Full disclosure: I'm a fan of Codes of Conduct (CoCs), but if anything, this post favors the other side of the debate. Community concensus is a personal and professional interest of mine[^1], so I found myself compelled to really understand what was driving the conflict around CoCs. Every time a project considers adopting or changing their code of conduct, the project's community has a discussion about about the change. The thing I've noticed about these discussions is that they are never about the project itself. They inevitably devolve into heated debates about whether CoCs are universally good or bad.
