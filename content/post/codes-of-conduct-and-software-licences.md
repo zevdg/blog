@@ -4,7 +4,7 @@ date: 2018-06-12
 summary: Codes of conduct, or CoCs, are one of the most contentius topics in open source right now. As community consensus is a personal and professional interest of mine, I found myself compelled to really understand what was driving this conflict. Every time a project considers adopting or changing their CoC, there is a discussion about about the change, that inevitably devolves into a heated debate about whether codes of conduct are universally good or evil.
 ---
 
-_Full disclosure: I'm a fan of codes of conduct, but I've done my best to present both sides as impartially as I can._
+_Full disclosure: I'm a fan of codes of conduct, but I've done my best to present both sides fairly._
 
 _Prerequisites: This post assumes that you already know a bit about codes of conduct and the conflict around them. If you don't, go read [this article](https://techcrunch.com/2016/03/05/how-we-may-mesh/) right now._
 
