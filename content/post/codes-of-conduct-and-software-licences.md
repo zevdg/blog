@@ -1,14 +1,13 @@
 ---
 title: Codes of Conduct need to learn from OSS Licenses
 date: 2018-06-12
-summary: Codes of conduct, or CoCs, are one of the most contentius topics in open source right now. As community consensus is a personal and professional interest of mine, I found myself compelled to really understand what was driving this conflict. Every time a project considers adopting or changing their CoC, there is a discussion about about the change, that inevitably devolves into a heated debate about whether codes of conduct are universally good or evil.
+summary: Codes of conduct, or CoCs, are one of the most contentius topics in open source right now. This debate recently re-ignited when the Go CoC's scope expanded beyond their official forums. As a member Go community with an interest in community consensus, I found myself compelled to really understand what was driving this conflict. Every time a project considers adopting or changing their CoC, a discussion about the change inevitably devolves into a heated debate about whether codes of conduct are universally good or evil.
 ---
 
-_Disclosure: I'm a fan of codes of conduct, but I've done my best to present both sides fairly._
+_**Disclosure:** I'm a fan of codes of conduct, but I've done my best to present both sides fairly._  
+_**Prerequisites:** This post assumes that you already know a bit about codes of conduct and the conflict around them. If you don't, go read [this article](https://techcrunch.com/2016/03/05/how-we-may-mesh/) right now._
 
-_Prerequisites: This post assumes that you already know a bit about codes of conduct and the conflict around them. If you don't, go read [this article](https://techcrunch.com/2016/03/05/how-we-may-mesh/) right now._
-
-Codes of conduct, or CoCs, are one of the most contentius topics in open source right now. As community consensus is a personal and professional interest of mine[^1], I found myself compelled to really understand what was driving this conflict. Every time a project considers adopting or changing their CoC, there is a discussion about about the change, that inevitably devolves into a heated debate about whether codes of conduct are universally good or evil.
+Codes of conduct, or CoCs, are one of the most contentius topics in open source right now. This debate recently re-ignited when the Go CoC's scope [expanded beyond their official forums](https://blog.golang.org/conduct-2018). As a member Go community with an interest in community consensus[^1], I found myself compelled to really understand what was driving this conflict. Every time a project considers adopting or changing their CoC, a discussion about the change inevitably devolves into a heated debate about whether codes of conduct are universally good or evil.
 
 Now if you just want to participate in a never ending flame war, don't let me stop you. You can choose between spaces vs tabs, vim vs emacs, and [Newcomb's paradox](https://en.wikipedia.org/wiki/Newcomb%27s_paradox). In all 3 of these debates, we're making good progress towards finding the _right_ answer.
 
@@ -47,7 +46,7 @@ The term "code of conduct" means different things to different people. To avoid 
 
 These definitions focus only on the _what_. The _why_ is out of scope for this post, but [this article](https://modelviewculture.com/pieces/the-new-normal-codes-of-conduct-in-2015-and-beyond) thoroughly covers the motivations of both sides. In short, the pro-CoC group believes that CoCs make project communities more welcoming, particularly to historically marginalized groups. The anti-CoC crowd believes that the CoC cure is worse than the disease.
 
-Lastly, I should mention that the most contentious part of CoCs relate to their scope. CoCs that only consider your actions within official group spaces (mailing lists, forums, conventions, pull requests, etc.) are significantly less contentious than CoCs that include other public forums like twitter. In fact, it was my defense of [a recent scope change in the Go CoC](https://blog.golang.org/conduct-2018) that inspired me to write this post.
+Lastly, I should mention that the most contentious part of CoCs relate to their scope. CoCs that only consider your actions within official group spaces (mailing lists, forums, conventions, pull requests, etc.) are significantly less contentious than CoCs that include other public forums like twitter.
 
 ### Comparison
 
@@ -112,4 +111,4 @@ We must
 If we did these 3 things – like we already do with software licences – then we could put this drama to rest and get back to writing awesome software.
 
 <!-- prettier-ignore -->
-[^1]: "Professional interest" in community consensus is an extreme understatement. I [founded my startup](https://medium.com/appleseedcorp/a-fresh-start-747b2ce00240) appleseed.vote specifically to tackle the problem.
+[^1]: "interest in community consensus" is an extreme understatement. I [founded my startup](https://medium.com/appleseedcorp/a-fresh-start-747b2ce00240) appleseed.vote specifically to tackle the problem.
