@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "zevdg"
 
 theme = "beautifulhugo"
+googleAnalytics = "UA-120850112-1"
 
 [Params]
   homeTitle = "Blog"
