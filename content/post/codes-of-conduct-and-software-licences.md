@@ -100,7 +100,7 @@ I won't sidetrack this post by promoting any specific process here, but there ar
 
 Codes of ethics are almost never an issue until someone tries to change them, and that should tell us something. Written or not, these codes are the foundations of our communities. People expect them to be stable, but they do need to adapt as the community grows. When we change a code of ethics without a clear and transparent process, it's like the magic trick where you pull the tablecloth out from under someone's dinner. Everyone freaks out, and hopefully, you don't spill any wine. It's not so bad if you only do it once. But try that trick too many times, and people will stop inviting you to dinner.
 
-<div style="display:flex;justify-content:center"><video height="400" playsinline autoplay muted loop><source src="/img/chuck-morgan-tablecloth.mp4" type="video/mp4"></video></div>
+<video width="100%" playsinline autoplay muted loop><source src="/img/chuck-morgan-tablecloth.mp4" type="video/mp4"></video>
 
 ### In summary
 
