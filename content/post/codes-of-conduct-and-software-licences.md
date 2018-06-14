@@ -4,8 +4,9 @@ date: 2018-06-12
 summary: Codes of conduct, or CoCs, are one of the most contentius topics in open source right now. Every time a project considers adopting or changing their CoC, the discussion inevitably devolves into a heated debate about whether codes of conduct are universally good or evil. This happened recently when the Go programming language changed its CoC to cover behavior outside of their official forums. As a member Go community with an interest in community consensus, I found myself compelled to really understand what was driving this conflict.
 ---
 
-_**Disclosure:** I'm a fan of codes of conduct, but I've done my best to present both sides fairly._  
-_**Prerequisites:** This post assumes that you already know a bit about codes of conduct and the conflict around them. If you don't, go read [this article](https://techcrunch.com/2016/03/05/how-we-may-mesh/) right now._
+_**Disclosure:** I'm a fan of codes of conduct, but I've done my best to present both sides fairly._
+
+_If you aren't already familiar with codes of conduct and the conflicts around them, you may want go read [this article](https://techcrunch.com/2016/03/05/how-we-may-mesh/) first._
 
 Codes of conduct, or CoCs, are one of the most contentius topics in open source right now. Every time a project considers adopting or changing their CoC, the discussion inevitably devolves into a heated debate about whether codes of conduct are universally good or evil. This happened recently when the Go programming language [changed its CoC](https://blog.golang.org/conduct-2018) to cover behavior outside of their official forums. As a member Go community with an interest in community consensus[^1], I found myself compelled to really understand what was driving this conflict.
 
