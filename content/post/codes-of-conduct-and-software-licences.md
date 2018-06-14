@@ -1,19 +1,20 @@
 ---
 title: Codes of Conduct need to learn from OSS Licenses
 date: 2018-06-12
+summary: Codes of conduct, or CoCs, are one of the most contentius topics in open source right now. As community consensus is a personal and professional interest of mine, I found myself compelled to really understand what was driving this conflict. Every time a project considers adopting or changing their CoC, there is a discussion about about the change, that inevitably devolves into a heated debate about whether codes of conduct are universally good or evil.
 ---
 
-_Full disclosure: I'm a fan of Codes of Conduct (CoCs), but if anything, this post favors the other side of the debate._
+_Full disclosure: I'm a fan of codes of conduct, but if anything, this post favors the other side of the debate._
 
-Codes of conduct are currently one of the most contentious topics among programmers. As community consensus is a personal and professional interest of mine[^1], I found myself compelled to really understand what was driving this conflict. Every time a project considers adopting or changing their CoC, there is a discussion about about the change, that inevitably devolves into a heated debate about whether codes of conduct are universally good or evil.
+_Prerequisites: This post assumes that you already know a bit about codes of conduct and the conflict around them. If you don't, go read [this article](https://techcrunch.com/2016/03/05/how-we-may-mesh/) right now._
 
-<!--more-->
+Codes of conduct, or CoCs, are one of the most contentius topics in open source right now. As community consensus is a personal and professional interest of mine[^1], I found myself compelled to really understand what was driving this conflict. Every time a project considers adopting or changing their CoC, there is a discussion about about the change, that inevitably devolves into a heated debate about whether codes of conduct are universally good or evil.
 
-If you just want to participate in a never ending flame war, we already have spaces vs tabs, vim vs emacs, and [Newcomb's paradox](https://en.wikipedia.org/wiki/Newcomb%27s_paradox). Surely, in all 3 of these areas, we're making good progress towards finding the _right_ answer.
+Now if you just want to participate in a never ending flame war, don't let me stop you. You can choose between spaces vs tabs, vim vs emacs, and [Newcomb's paradox](https://en.wikipedia.org/wiki/Newcomb%27s_paradox). In all 3 of these debates, we're making good progress towards finding the _right_ answer.
 
 ![/sarcasm](/img/spongebob-meme-sarcasm.jpg)
 
-Truly, I do hope that someday we can all come to an agreement on CoCs, but I'm not holding my breath. In the meantime, **we need to have a discussion about if and when it's acceptable to change the rules of a community**. That's something that we can make real progress on, and would help avoid these pointless and harmful flame wars. I came to this realization by noticing the similarities and differences between CoCs and open-source software (OSS) licences. We'll walk through that together, but first we need a little background on both of those topics.
+Seriously though, I do hope that someday we can all come to an agreement on CoCs, but I'm not holding my breath. In the meantime, **we need to have a discussion about if and when it's acceptable to change the rules of a community**. That's something that we can make real progress on, and it would help avoid these toxic flame wars that divide our communities. I came to this realization by noticing the similarities and differences between CoCs and open-source software (OSS) licences. We'll walk through that comparison together, but first we need a little background on both of those topics.
 
 ### Software Licences
 
@@ -22,14 +23,14 @@ In the OSS world, there are two categories of software license: copyleft and per
 ![open-source xkcd](https://imgs.xkcd.com/comics/open_source.png")
 _Speaking of giving credit: https://xkcd.com/225_
 
-Sometimes licence choice is a technical decision based on the specific needs of a project, but more often it is an ideological choice of the project's original authors. If they believe in the tenets of free software, they will prefer copyleft licenses for all their projects. Conversely, if they believe that developer freedom is more important than user freedom, they will universally prefer permissive licenses. While there is the occasional debate about which class of licence is generally "better", the two camps of developers co-exist peacefully and even contribute to each other's projects without complaint.
+Much like CoCs, licences lay out rules that contributors need to follow, and there are two camps in disagreement on what those rules should be. Sometimes licence choice is a technical decision informed by the specific needs of a project, but more often it is a purely ideological choice by the project's original authors. If they believe in the tenets of free software, they will prefer copyleft licenses for all their projects. Conversely, if they believe that developer freedom is more important than user freedom, they will universally prefer permissive licenses. While there is the occasional debate about which class of licence is generally "better", the two camps of developers co-exist peacefully and even contribute to each other's projects without complaint.
 
 ### Codes of Conduct
 
-The term Code of Conduct means different things to different people. To avoid confusion, I'm going to invent/redefine some terms I'll be using in the rest of this post.
+The term "code of conduct" means different things to different people. To avoid confusion, I'm going to invent and define some terms I'll be using in the rest of this post.
 
-1.  A **Code of Ethics** is a document that outlines how individuals in a community should behave.
-2.  A **Code of Conduct** or CoC is a code of ethics that provides additional clarity on at least some of the following:
+1.  A **code of ethics** is a document that outlines how individuals in a community should behave.
+2.  A **code of conduct** or CoC is a code of ethics that provides additional clarity on at least some of the following:
 
     - examples of encouraged and discouraged behavior
     - the scope, that is the places in which a violation is relevant
@@ -39,12 +40,12 @@ The term Code of Conduct means different things to different people. To avoid co
       - any resolution or mediation processes
       - potential punishments for a confirmed violation
 
-    Examples: The [Contributor Covenant](https://www.contributor-covenant.org/) is the de-facto CoC, but it is commonly used only as a starting point and then customized for each community.
+    Examples: The [Contributor Covenant](https://www.contributor-covenant.org/) is the de-facto OSS CoC, but it is commonly used only as a starting point and then customized for each community.
 
-3.  An **Anti-Code of Conduct** or anti-CoC is a code of ethics that is intentionally vague about the items listed above that a CoC attempts to clarify.  
+3.  An **anti-code of conduct** or anti-CoC is a code of ethics that is intentionally vague about the items listed above that a CoC attempts to clarify.  
     Examples: The [NCoC](https://github.com/domgetter/NCoC) and Linux's [Code of Conflict](https://www.kernel.org/doc/html/v4.13/process/code-of-conflict.html) are the most famous anti-CoCs.
 
-I've tried to be as impartial as possible with these definitions. To that end, they focus on the _what_ and totally avoid the _why_. If you want do go down that rabbit hole, I suggest you start with [this article](https://techcrunch.com/2016/03/05/how-we-may-mesh/). In short, the pro-CoC group believes that CoCs make project communities more welcoming. The anti-CoC crowd is a bit more varied in their specific beliefs, but they agree that the CoC cure is worse than the disease.
+These definitions focus on the _what_ and totally avoid the _why_. For the curious, [this article](https://modelviewculture.com/pieces/the-new-normal-codes-of-conduct-in-2015-and-beyond) thoroughly covers the motivations of both sides. In short, the pro-CoC group believes that CoCs make project communities more welcoming, particularly to historically marginalized groups. The anti-CoC crowd believes that the CoC cure is worse than the disease.
 
 Lastly, I should mention that the most contentious part of CoCs relate to their scope. CoCs that only consider your actions within official group spaces — mailing lists, forums, conventions, pull requests, etc. — are significantly less contentious than CoCs that include other public forums like twitter. In fact, it was my defense of [a scope change in the Go CoC](https://blog.golang.org/conduct-2018) that inspired me to write this post.
 
@@ -54,7 +55,7 @@ So in both licences and CoCs, we have 2 camps of programmers with different beli
 
 ### The secret 3rd licence
 
-So far, I've presented OSS licences as if it was a choice between copyleft and permissive. However, we can't ignore the default state of a project: no-licence. Fortunately, software licensing has been around long enough that the lack of a licence in an open-source project is a legally well-defined state. You might think that code published online with no licence would be in the public domain, but you'd be wrong. The no-licence state is implicitly _all rights reserved_. In other words, if you publish some code on the interwebs without a licence, and someone uses that code in almost any way, you can sue their ass.
+So far, I've presented OSS licences as if it was a choice between copyleft and permissive. However, we can't ignore the default state of a project: no-licence. Fortunately, software licensing has been around long enough that the lack of a licence in an open-source project is a legally well-defined state. You might think that code published online with no licence would be in the public domain, but you'd be wrong. The no-licence state is implicitly _all rights reserved_. In other words, if you publish some code on the interwebs without a licence, and anyone else uses that code in almost any way, you can sue their ass.
 
 ![oprah lawsuit](/img/oprah-lawsuit.jpg)
 
