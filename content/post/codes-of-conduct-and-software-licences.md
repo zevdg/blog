@@ -2,6 +2,7 @@
 title: Codes of Conduct need to learn from OSS Licenses
 date: 2018-06-12
 summary: Codes of conduct, or CoCs, are one of the most contentius topics in open source right now. Every time a project considers adopting or changing their CoC, the discussion inevitably devolves into a heated debate about whether codes of conduct are universally good or evil. This happened recently when the Go programming language changed its CoC to cover behavior outside of their official forums. As a member Go community with an interest in community consensus, I found myself compelled to really understand what was driving this conflict.
+draft: true
 ---
 
 _**Disclosure:** I'm a fan of codes of conduct, but I've done my best to present both sides fairly._
